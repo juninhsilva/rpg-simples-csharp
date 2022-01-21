@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/bin/Debug/net5.0/rpgCSharp
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/bin/Debug/net5.0/rpgCSharp.deps.json
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/bin/Debug/net5.0/rpgCSharp.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/bin/Debug/net5.0/rpgCSharp.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/bin/Debug/net5.0/rpgCSharp.dll
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/bin/Debug/net5.0/ref/rpgCSharp.dll
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/bin/Debug/net5.0/rpgCSharp.pdb
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/obj/Debug/net5.0/rpgCSharp.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/obj/Debug/net5.0/rpgCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/obj/Debug/net5.0/rpgCSharp.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/obj/Debug/net5.0/rpgCSharp.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/obj/Debug/net5.0/rpgCSharp.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/obj/Debug/net5.0/rpgCSharp.dll
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/obj/Debug/net5.0/ref/rpgCSharp.dll
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/obj/Debug/net5.0/rpgCSharp.pdb
+/home/juninhsilva14/Documents/SI/cursos/rpgCSharp/obj/Debug/net5.0/rpgCSharp.genruntimeconfig.cache

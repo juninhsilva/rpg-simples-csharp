@@ -1,0 +1,4 @@
+public enum Type
+{
+    ELF, DRAGON, MONSTER, ANDROID, VAMPIRE, KNIGHT
+}
